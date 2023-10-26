@@ -1,14 +1,608 @@
 [
         {
-            "Absender": "Testabsender",
-            "Betreff": "Hallo!",
-            "Text": "ojnpvoerküp#fkqäpamjfvpea,v+aer,qgpgmüflwüpctov4ß2üwlc43ß  joüijmop,mkpo43jgopb,eüpa",
-            "Eingang": "Mo. 13:47"
+            "Absender": "Kerstin Meier",
+            "Betreff": "       Neuer Lieferant für Reagenzien",
+            "Text": "       Hallo Hagen, ich habe von einem neuen Lieferanten für Reagenzien gehört. Die Preise sind sehr wettbewerbsfähig und die Qualität hervorragend. Möchtest du weitere Infos? Viele Grüße, Kerstin.",
+            "Eingang": "Fr. 18:27"
         },
         {
-            "Absender": "Testabsenderin",
-            "Betreff": "Huhu",
-            "Text": "joüikß+okjuhükßiiopülö+",
-            "Eingang": "Di. 9:12"
+            "Absender": "Florian Bauer",
+            "Betreff": "       Laborgeräte Angebotsanfrage",
+            "Text": "       Guten Tag Herr Achleitner, bezüglich der neuesten Laborgeräte, die Sie suchen, haben wir einige attraktive Angebote. Soll ich Ihnen Details zukommen lassen? Mit freundlichen Grüßen, Florian.",
+            "Eingang": "Fr. 16:55"
+        },
+        {
+            "Absender": "München Chemie AG",
+            "Betreff": "   Quartalsbericht Q2",
+            "Text": "               Sehr geehrter Herr Achleitner, anbei finden Sie den Quartalsbericht für Q2. Bei Fragen stehen wir Ihnen gerne zur Verfügung. Beste Grüße, Dr. Martina Fischer, Finanzabteilung.",
+            "Eingang": "Fr. 16:12"
+        },
+        {
+            "Absender": "Sandra Schmidt",
+            "Betreff": "       Schichtplan Änderung",
+            "Text": "               Hagen, ich muss den Schichtplan für nächste Woche ändern. Einige Mitarbeiter sind krank. Ich sende dir den aktualisierten Plan morgen. Gruß, Sandra.",
+            "Eingang": "Fr. 15:48"
+        },
+        {
+            "Absender": "Technik Service",
+            "Betreff": "   Wartungstermin",
+            "Text": "               Guten Tag, wir möchten Sie daran erinnern, dass der nächste Wartungstermin für Ihre Maschinen in zwei Wochen ist. Bitte bestätigen Sie den Termin. Danke, Klaus Meyer.",
+            "Eingang": "Fr. 15:01"
+        },
+        {
+            "Absender": "Umweltamt München",
+            "Betreff": "   Jahresprüfung",
+            "Text": "               Sehr geehrter Herr Achleitner, wir möchten Sie daran erinnern, dass Ihre jährliche Umweltprüfung in einem Monat ansteht. Bitte bereiten Sie alle notwendigen Unterlagen vor. Mit freundlichen Grüßen, Julia Schwarz.",
+            "Eingang": "Fr. 14:30"
+        },
+        {
+            "Absender": "Andreas Braun",
+            "Betreff": "       Treffen nächste Woche",
+            "Text": "       Hagen, könnten wir unser Treffen auf Mittwoch verlegen? Dienstag wird für mich schwierig. Danke für dein Verständnis! Gruß, Andreas.",
+            "Eingang": "Fr. 13:52"
+        },
+        {
+            "Absender": "Dr. Müller & Partner  Rechtsberatung",
+            "Betreff": "Termin",
+            "Text": "               Guten Tag, Herr Achleitner. Ihr Termin mit Dr. Müller steht am Montag um 11 Uhr. Bitte bestätigen Sie den Termin. Danke, Sekretariat Dr. Müller & Partner.",
+            "Eingang": "Fr. 13:10"
+        },
+        {
+            "Absender": "Petra Vogel",
+            "Betreff": "       Personalfrage",
+            "Text": "               Hallo Hagen, ich wollte mit dir über die Neueinstellung im Marketing sprechen. Könnten wir uns morgen treffen? Viele Grüße, Petra.",
+            "Eingang": "Fr. 12:45"
+        },
+        {
+            "Absender": "Stefan Lang",
+            "Betreff": "       Lieferverzögerung",
+            "Text": "               Sehr geehrter Herr Achleitner, leider gibt es eine Lieferverzögerung von zwei Tagen für die Bestellung von letzter Woche. Wir entschuldigen uns für die Unannehmlichkeiten. Mit freundlichen Grüßen, Stefan.",
+            "Eingang": "Fr. 12:15"
+        },
+        {
+            "Absender": "Lisa Maier",
+            "Betreff": "       Forschungsprojekt",
+            "Text": "               Hagen, die Ergebnisse des Forschungsprojekts sind da! Sie sehen vielversprechend aus. Wann können wir uns zusammensetzen und sie durchgehen? Liebe Grüße, Lisa.",
+            "Eingang": "Fr. 11:32"
+        },
+        {
+            "Absender": "Martin Ziegler",
+            "Betreff": "       Rechnung Nr. 4587",
+            "Text": "               Guten Tag Herr Achleitner, ich wollte nachfragen, ob Sie die Rechnung Nr. 4587 erhalten haben? Die Zahlungsfrist endet nächste Woche. Beste Grüße, Martin.",
+            "Eingang": "Fr. 11:01"
+        },
+        {
+            "Absender": "Eva Müller",
+            "Betreff": "           Geburtstagseinladung",
+            "Text": "       Hallo Hagen! Ich feiere nächsten Samstag meinen 50. Geburtstag und würde mich freuen, wenn du dabei bist. Lass mich wissen, ob du kommen kannst. Liebe Grüße, Eva.",
+            "Eingang": "Fr. 10:30"
+        },
+        {
+            "Absender": "Tobias Schneider",
+            "Betreff": "   Rohstoffpreise",
+            "Text": "               Sehr geehrter Herr Achleitner, aufgrund von Marktschwankungen werden sich die Rohstoffpreise nächste Woche leicht erhöhen. Bitte berücksichtigen Sie dies in Ihrer Kalkulation. Viele Grüße, Tobias.",
+            "Eingang": "Fr. 09:55"
+        },
+        {
+            "Absender": "Maria Lehmann",
+            "Betreff": "       Betriebsausflug",
+            "Text": "               Hagen, der Betriebsausflug im Juni steht. Hast du Vorschläge für ein Ziel? Das Team freut sich auf deine Ideen! Beste Grüße, Maria.",
+            "Eingang": "Fr. 09:20"
+        },
+        {
+            "Absender": "Hans Klein",
+            "Betreff": "           Messebesuch",
+            "Text": "               Hagen, ich habe uns für die Chemie-Messe in Berlin angemeldet. Ich sende dir die Details nächste Woche. Gruß, Hans.",
+            "Eingang": "Fr. 08:45"
+        },
+        {
+            "Absender": "Janine Weber",
+            "Betreff": "       Schulung",
+            "Text": "               Hallo Herr Achleitner, ich wollte fragen, ob Sie an der Schulung im November teilnehmen möchten? Bitte geben Sie mir bis Ende des Monats Bescheid. Viele Grüße, Janine.",
+            "Eingang": "Fr. 08:15"
+        },
+        {
+            "Absender": "Lukas Fischer",
+            "Betreff": "       Produktfeedback",
+            "Text": "               Guten Morgen, Hagen. Ich habe einige Rückmeldungen zu unserem neuen Produkt. Die Kunden sind begeistert! Ich schicke dir die Details. Viele Grüße, Lukas.",
+            "Eingang": "Fr. 07:50"
+        },
+        {
+            "Absender": "Sophie Neumann",
+            "Betreff": "       Urlaubsantrag",
+            "Text": "               Hallo Hagen, ich würde gerne im Juli zwei Wochen Urlaub nehmen. Kannst du den Antrag genehmigen? Danke und liebe Grüße, Sophie.",
+            "Eingang": "Fr. 07:25"
+        },
+        {
+            "Absender": "Oliver Becker",
+            "Betreff": "       Dringende Frage",
+            "Text": "               Hagen, ich habe eine dringende Frage bezüglich der Produktion nächste Woche. Könntest du mich bitte so schnell wie möglich anrufen? Danke, Oliver.",
+            "Eingang": "Fr. 07:00"
+        },
+        {
+            "Absender": "Daniela Hoffmann",
+            "Betreff": "       Rückrufaktion",
+            "Text": "             Hagen, wir haben ein Problem mit einer der Produktchargen. Es könnte einen Rückruf geben. Wir sollten dringend darüber sprechen. Beste Grüße, Daniela.",
+            "Eingang": "Do. 18:28"
+        },
+        {
+            "Absender": "Benjamin Stiller",
+            "Betreff": "       Seminaranmeldung",
+            "Text": "             Guten Tag Herr Achleitner, ich habe uns für das Sicherheitsseminar im Dezember angemeldet. Die Plätze sind begrenzt. Viele Grüße, Benjamin.",
+            "Eingang": "Do. 17:56"
+        },
+        {
+            "Absender": "Nina Fischer",
+            "Betreff": "           Exportdokumente",
+            "Text": "             Hallo Hagen, die Dokumente für den Export nach Kanada sind bereit. Könntest du sie bitte überprüfen und unterschreiben? Danke, Nina.",
+            "Eingang": "Do. 17:10"
+        },
+        {
+            "Absender": "Tim Bergmann",
+            "Betreff": "           Maschinenstörung",
+            "Text": "             Hagen, wir hatten heute eine Störung an Maschine 4. Es wurde behoben, aber ich möchte, dass du die Details kennst. Melde dich bitte. Gruß, Tim.",
+            "Eingang": "Do. 16:45"
+        },
+        {
+            "Absender": "Sarah Maier",
+            "Betreff": "           Marketingstrategie",
+            "Text": "             Hallo Hagen, die neue Marketingstrategie ist fertig. Ich würde sie dir gerne nächste Woche präsentieren. Passt dir Dienstag? Liebe Grüße, Sarah.",
+            "Eingang": "Do. 16:12"
+        },
+        {
+            "Absender": "Max Müller",
+            "Betreff": "           Bestellbestätigung",
+            "Text": "             Sehr geehrter Herr Achleitner, Ihre Bestellung von 500 kg XYZ-Chemikalie wurde bestätigt. Lieferdatum: 10.12. Viele Grüße, Max.",
+            "Eingang": "Do. 15:40"
+        },
+        {
+            "Absender": "Helena Krause",
+            "Betreff": "           Forschungsergebnisse",
+            "Text": "             Hagen, die neuesten Forschungsergebnisse sind da. Es gibt einige interessante Entdeckungen. Wann können wir darüber sprechen? Beste Grüße, Helena.",
+            "Eingang": "Do. 15:05"
+        },
+        {
+            "Absender": "Johannes Wagner",
+            "Betreff": "       Betriebsratssitzung",
+            "Text": "             Guten Tag Herr Achleitner, die nächste Betriebsratssitzung findet am 20.11. um 14:00 Uhr statt. Bitte den Termin vormerken. Gruß, Johannes.",
+            "Eingang": "Do. 14:28"
+        },
+        {
+            "Absender": "Isabelle Klein",
+            "Betreff": "       Bewerbungsgespräche",
+            "Text": "             Hallo Hagen, ich habe drei Bewerber für die offene Stelle im Vertrieb. Wann könnten wir die Gespräche führen? Beste Grüße, Isabelle.",
+            "Eingang": "Do. 14:00"
+        },
+        {
+            "Absender": "Thomas Schneider",
+            "Betreff": "       Lagerbestand",
+            "Text": "             Sehr geehrter Herr Achleitner, der Lagerbestand für einige Produkte ist niedrig. Wir sollten über Nachbestellungen sprechen. Gruß, Thomas.",
+            "Eingang": "Do. 13:35"
+        },
+        {
+            "Absender": "Laura Meyer",
+            "Betreff": "           Jahresendfeier",
+            "Text": "             Hallo Hagen, was hältst du von einer Jahresendfeier für das Team? Ich denke, es wäre eine gute Gelegenheit, das Jahr abzuschließen. Gruß, Laura.",
+            "Eingang": "Do. 13:05"
+        },
+        {
+            "Absender": "Philipp Stein",
+            "Betreff": "           Lieferantenbewertung",
+            "Text": "             Guten Tag, ich habe die jährliche Lieferantenbewertung abgeschlossen. Es gibt einige Punkte, die wir besprechen sollten. Viele Grüße, Philipp.",
+            "Eingang": "Do. 12:30"
+        },
+        {
+            "Absender": "Melanie Lehmann",
+            "Betreff": "       Projektupdate",
+            "Text": "             Hallo Hagen, das Projekt \"Alpha\" läuft gut. Wir sind vor dem Zeitplan und im Budget. Ich werde dir nächste Woche einen vollständigen Bericht geben. Gruß, Melanie.",
+            "Eingang": "Do. 12:05"
+        },
+        {
+            "Absender": "Christian Vogel",
+            "Betreff": "       Wettbewerbsanalyse",
+            "Text": "             Hagen, ich habe eine Wettbewerbsanalyse durchgeführt. Einige unserer Konkurrenten machen interessante Dinge. Sollen wir darüber sprechen? Beste Grüße, Christian.",
+            "Eingang": "Do. 11:40"
+        },
+        {
+            "Absender": "Rebecca Lang",
+            "Betreff": "           Konferenz in Paris",
+            "Text": "             Guten Tag Herr Achleitner, ich habe einen interessanten Konferenztermin in Paris gefunden. Soll ich uns anmelden? Viele Grüße, Rebecca.",
+            "Eingang": "Do. 11:20"
+        },
+        {
+            "Absender": "Stefan Wolf",
+            "Betreff": "           Dringendes Treffen",
+            "Text": "             Hagen, wir müssen dringend über die neuesten Entwicklungen in der Produktion sprechen. Können wir uns heute Nachmittag treffen? Gruß, Stefan.",
+            "Eingang": "Do. 10:58"
+        },
+        {
+            "Absender": "Anja Richter",
+            "Betreff": "           Besuchergruppe",
+            "Text": "             Hallo Hagen, nächste Woche kommt eine Besuchergruppe aus der Partneruniversität. Könntest du eine kleine Führung machen? Danke, Anja.",
+            "Eingang": "Do. 10:30"
+        },
+        {
+            "Absender": "Markus Zimmer",
+            "Betreff": "       Patentanmeldung",
+            "Text": "             Guten Tag, die Patentanmeldung für unsere neue Erfindung ist fertig. Wir benötigen noch deine Unterschrift. Beste Grüße, Markus.",
+            "Eingang": "Do. 10:05"
+        },
+        {
+            "Absender": "Lena Schwarz",
+            "Betreff": "           Kostenübersicht",
+            "Text": "             Hallo Hagen, die monatliche Kostenübersicht ist fertig. Ich habe sie dir per Post geschickt. Bitte überprüfe sie. Viele Grüße, Lena.",
+            "Eingang": "Do. 09:40"
+        },
+        {
+            "Absender": "Julian Weber",
+            "Betreff": "           Maschinenkauf",
+            "Text": "             Guten Morgen, Hagen. Ich habe ein Angebot für die neue Maschine, über die wir gesprochen haben. Es sieht gut aus. Sollen wir weitermachen? Gruß, Julian.",
+            "Eingang": "Do. 09:15"
+        },
+        {
+            "Absender": "Silke Brückner",
+            "Betreff": "           Qualitätsprüfung",
+            "Text": "        Hallo Hagen, der Qualitätsbericht für das letzte Quartal liegt vor. Es gibt einige Auffälligkeiten. Können wir uns dazu austauschen? Grüße, Silke.",
+            "Eingang": "Mi. 18:50"
+        },
+        {
+            "Absender": "Fabian Roth",
+            "Betreff": "           Mitarbeiterfortbildung",
+            "Text": "    Hallo Herr Achleitner, ich möchte unser Team für eine Fortbildung im Bereich Sicherheit anmelden. Einverstanden? Beste Grüße, Fabian.",
+            "Eingang": "Mi. 18:05"
+        },
+        {
+            "Absender": "Klara Weber",
+            "Betreff": "           Externer Auditor",
+            "Text": "        Hagen, nächste Woche kommt der externe Auditor. Bitte stellen Sie sicher, dass alle relevanten Dokumente bereit sind. Vielen Dank, Klara.",
+            "Eingang": "Mi. 17:40"
+        },
+        {
+            "Absender": "Oliver Stein",
+            "Betreff": "           Neue Lieferanten",
+            "Text": "        Guten Tag, Hagen. Ich habe einige neue Lieferanten gefunden, die günstiger und schneller liefern können. Sollen wir einen Wechsel in Erwägung ziehen? Oliver.",
+            "Eingang": "Mi. 17:00"
+        },
+        {
+            "Absender": "Petra Hartmann",
+            "Betreff": "       Urlaubsanfrage",
+            "Text": "            Hallo Herr Achleitner, ich würde gerne meinen Urlaub für Dezember beantragen. Ist das möglich? Viele Grüße, Petra.",
+            "Eingang": "Mi. 16:20"
+        },
+        {
+            "Absender": "Martin Groß",
+            "Betreff": "           Produktionsbericht",
+            "Text": "        Sehr geehrter Herr Achleitner, der Produktionsbericht für Oktober zeigt einige Verzögerungen. Ich schlage vor, wir besprechen das persönlich. Martin.",
+            "Eingang": "Mi. 15:45"
+        },
+        {
+            "Absender": "Julia Meier",
+            "Betreff": "           Laborergebnisse",
+            "Text": "        Hallo Hagen, die Ergebnisse aus dem Labor sind da. Einige Werte sind nicht im Normbereich. Was sollen wir tun? Beste Grüße, Julia.",
+            "Eingang": "Mi. 15:10"
+        },
+        {
+            "Absender": "Simon Müller",
+            "Betreff": "           Neues Verpackungsmaterial",
+            "Text": " Guten Tag, ich habe ein neues, umweltfreundliches Verpackungsmaterial gefunden. Es wäre eine gute Chance für uns, grüner zu werden. Was denken Sie? Simon.",
+            "Eingang": "Mi. 14:30"
+        },
+        {
+            "Absender": "Anna Schmidt",
+            "Betreff": "           Finanzbericht",
+            "Text": "            Guten Tag Herr Achleitner, ich habe den Finanzbericht für das letzte Quartal fertiggestellt. Wann können wir uns dazu treffen? Viele Grüße, Anna.",
+            "Eingang": "Mi. 14:05"
+        },
+        {
+            "Absender": "Michael Lange",
+            "Betreff": "           Betriebsausflug",
+            "Text": "        Hagen, was hältst du von einem Betriebsausflug im Frühling? Es könnte die Moral heben. Gruß, Michael.",
+            "Eingang": "Mi. 13:40"
+        },
+        {
+            "Absender": "Katrin Becker",
+            "Betreff": "           Neue Software",
+            "Text": "            Hallo Hagen, ich habe eine neue Software entdeckt, die unsere Produktionseffizienz steigern könnte. Soll ich eine Demo organisieren? Gruß, Katrin.",
+            "Eingang": "Mi. 13:15"
+        },
+        {
+            "Absender": "Lukas Schmitt",
+            "Betreff": "           Treffen mit Investoren",
+            "Text": "    Herr Achleitner, unser Treffen mit den potenziellen Investoren ist für nächsten Montag angesetzt. Bitte bestätigen Sie. Gruß, Lukas.",
+            "Eingang": "Mi. 12:50"
+        },
+        {
+            "Absender": "Sophie Wagner",
+            "Betreff": "           Wartungsarbeiten",
+            "Text": "        Hallo Hagen, wir planen Wartungsarbeiten für nächste Woche. Dies könnte die Produktion beeinflussen. Ich halte dich auf dem Laufenden. Sophie.",
+            "Eingang": "Mi. 12:20"
+        },
+        {
+            "Absender": "Marcel Schneider",
+            "Betreff": "       Geschäftsessen",
+            "Text": "            Guten Tag, Hagen. Ich habe ein Geschäftsessen mit unseren japanischen Partnern organisiert. Es ist am 30.11. um 19:00 Uhr. Passt das? Marcel.",
+            "Eingang": "Mi. 11:45"
+        },
+        {
+            "Absender": "Jana Braun",
+            "Betreff": "           Umweltauflagen",
+            "Text": "            Hagen, es gibt neue Umweltauflagen, die uns betreffen könnten. Ich schicke dir die Details. Wir sollten uns dazu austauschen. Jana.",
+            "Eingang": "Mi. 11:10"
+        },
+        {
+            "Absender": "Florian Zimmer",
+            "Betreff": "       Forschungskooperation",
+            "Text": "    Hallo Hagen, ich habe einen Vorschlag für eine Forschungskooperation mit der TU München erhalten. Soll ich weiter verfolgen? Gruß, Florian.",
+            "Eingang": "Mi. 10:40"
+        },
+        {
+            "Absender": "Kerstin Fischer",
+            "Betreff": "       Neue Mitarbeiter",
+            "Text": "        Guten Tag Herr Achleitner, die neuen Mitarbeiter beginnen nächste Woche. Bitte nehmen Sie sich etwas Zeit für eine kurze Begrüßung. Kerstin.",
+            "Eingang": "Mi. 10:05"
+        },
+        {
+            "Absender": "Robert Lehmann",
+            "Betreff": "       Lieferprobleme",
+            "Text": "            Hagen, einer unserer Hauptlieferanten hat Lieferprobleme gemeldet. Dies könnte unsere Produktion beeinflussen. Was sollen wir tun? Robert.",
+            "Eingang": "Mi. 09:40"
+        },
+        {
+            "Absender": "Eva Wolf",
+            "Betreff": "               Produktentwicklung",
+            "Text": "        Hallo Hagen, ich habe einige Ideen für neue Produkte. Könnten wir uns dazu austauschen? Ich denke, es könnte sehr spannend sein. Eva.",
+            "Eingang": "Mi. 09:15"
+        },
+        {
+            "Absender": "Alexander Klein",
+            "Betreff": "       Messeauftritt",
+            "Text": "            Guten Tag, der Messeauftritt in Frankfurt steht an. Ich benötige noch einige Informationen von dir. Wann hast du Zeit? Alexander.",
+            "Eingang": "Mi. 08:50"
+        },
+        {
+            "Absender": "Olga Hartmann",
+            "Betreff": "           Technische Schulung",
+            "Text": "     Hagen, das technische Team benötigt eine Schulung für die neue Ausrüstung. Könnten wir das bitte bald organisieren? Olga.",
+            "Eingang": "Di. 18:45"
+        },
+        {
+            "Absender": "Oskar Steinsaltz",
+            "Betreff": "Ihre Anfrage zum Gespräch",
+            "Text": "Sehr geehrter Herr Achleitner, ihre Anfrage zum gemeinsamen Gespräch bestätige ich Ihnen hiermit. Ich mache Sie allerdings gleich auf eines aufmerksam: Ich werde weder mit Ihnen darüber diskutieren, ob ich die skandalösen Vorgänge, für die Sie verantwortlich sind, veröffentliche, noch werde ich auf Bitten oder Bestechungsveruche ihrerseits dies betreffend eingehen. Dies nur zu Ihrer Information. \r\nDennoch gebietet es in meinen Augen der Anstand, Sie anzuhören. Daher lade ich Sie am Donnerstag um 18 Uhr in mein Anwesen ein. \r\n\r\nDie Adresse lautet: Schlangenwegerl 31, 80687 München.\r\n\r\nFreundliche Grüße\r\nOskar Steinsaltz",
+            "Eingang": "Di. 18:37"
+        },
+        {
+            "Absender": "Andreas Schwarz",
+            "Betreff": "       Unternehmenspartnerschaft",
+            "Text": " Sehr geehrter Herr Achleitner, ich wurde von einem Unternehmen aus Schweden kontaktiert. Sie möchten eine Partnerschaft besprechen. Wie sollen wir vorgehen? Andreas.",
+            "Eingang": "Di. 18:15"
+        },
+        {
+            "Absender": "Susanne Breit",
+            "Betreff": "           Inventur",
+            "Text": "               Hallo Hagen, die jährliche Inventur steht an. Wir sollten uns treffen und den Zeitplan festlegen. Grüße, Susanne.",
+            "Eingang": "Di. 17:55"
+        },
+        {
+            "Absender": "Tobias Winter",
+            "Betreff": "           Umweltzertifizierung",
+            "Text": "     Guten Tag, ich denke, wir sollten eine Umweltzertifizierung für die Fabrik in Betracht ziehen. Dies könnte unser Image stärken. Was denken Sie? Tobias.",
+            "Eingang": "Di. 17:25"
+        },
+        {
+            "Absender": "Elisabeth Müller",
+            "Betreff": "       Mitarbeiterfeedback",
+            "Text": "     Hagen, ich habe das jährliche Mitarbeiterfeedback zusammengestellt. Es gibt einige Punkte, die wir besprechen sollten. Elisabeth.",
+            "Eingang": "Di. 16:50"
+        },
+        {
+            "Absender": "Christoph Lang",
+            "Betreff": "           Rohstoffpreise",
+            "Text": "           Guten Tag, die Preise für einige unserer Hauptrohstoffe steigen. Wir sollten darüber sprechen, wie wir damit umgehen. Christoph.",
+            "Eingang": "Di. 16:20"
+        },
+        {
+            "Absender": "Maike Fischer",
+            "Betreff": "           Personalversammlung",
+            "Text": "     Hallo Hagen, die nächste Personalversammlung ist für den 15.11. geplant. Bitte halte dir den Termin frei. Maike.",
+            "Eingang": "Di. 15:45"
+        },
+        {
+            "Absender": "Dirk Maier",
+            "Betreff": "               Lieferverzögerungen",
+            "Text": "       Herr Achleitner, es gibt Lieferverzögerungen bei einem unserer Hauptlieferanten. Dies könnte sich auf unsere Produktion auswirken. Dirk.",
+            "Eingang": "Di. 15:10"
+        },
+        {
+            "Absender": "Verena Wagner",
+            "Betreff": "           Budgetplanung",
+            "Text": "           Hallo Hagen, wir müssen bald mit der Budgetplanung für das nächste Jahr beginnen. Können wir uns dazu treffen? Verena.",
+            "Eingang": "Di. 14:40"
+        },
+        {
+            "Absender": "Moritz Schmidt",
+            "Betreff": "           Neue IT-Ausrüstung",
+            "Text": "       Guten Tag, die IT-Abteilung schlägt vor, einige unserer Systeme zu aktualisieren. Ich habe Angebote eingeholt. Besprechen wir dies? Moritz.",
+            "Eingang": "Di. 14:00"
+        },
+        {
+            "Absender": "Leonie Braun",
+            "Betreff": "           Unternehmens-Newsletter",
+            "Text": " Hallo Hagen, ich arbeite am nächsten Unternehmens-Newsletter. Gibt es spezielle Themen oder Neuigkeiten, die du einbringen möchtest? Leonie.",
+            "Eingang": "Di. 13:25"
+        },
+        {
+            "Absender": "Karsten Schneider",
+            "Betreff": "       Sicherheitsaudit",
+            "Text": "           Herr Achleitner, das jährliche Sicherheitsaudit steht an. Bitte stellen Sie sicher, dass alle notwendigen Dokumente bereit sind. Karsten.",
+            "Eingang": "Di. 12:55"
+        },
+        {
+            "Absender": "Nadine Vogel",
+            "Betreff": "           Betriebskantine",
+            "Text": "           Hallo Hagen, es gibt Beschwerden bezüglich des Essens in der Betriebskantine. Können wir darüber sprechen? Nadine.",
+            "Eingang": "Di. 12:20"
+        },
+        {
+            "Absender": "Ralf Weber",
+            "Betreff": "               Messeplanung",
+            "Text": "           Guten Tag, wir sollten unsere Messeplanung für das nächste Jahr in Angriff nehmen. Haben Sie spezielle Messen im Kopf, die wir besuchen sollten? Ralf.",
+            "Eingang": "Di. 11:55"
+        },
+        {
+            "Absender": "Birgit Stein",
+            "Betreff": "           Jahresabschluss",
+            "Text": "           Hagen, der Jahresabschluss steht an. Es wäre gut, wenn wir uns dazu bald treffen könnten. Grüße, Birgit.",
+            "Eingang": "Di. 11:25"
+        },
+        {
+            "Absender": "Jens Lehmann",
+            "Betreff": "           Werbekampagne",
+            "Text": "           Guten Tag, ich habe Ideen für eine neue Werbekampagne. Es wäre großartig, wenn wir uns dazu austauschen könnten. Jens.",
+            "Eingang": "Di. 10:50"
+        },
+        {
+            "Absender": "Kerstin Groß",
+            "Betreff": "           Neue Lieferverträge",
+            "Text": "       Hallo Hagen, ich habe Verhandlungen mit potenziellen neuen Lieferanten geführt. Es gibt einige interessante Angebote. Sollen wir diese verfolgen? Kerstin.",
+            "Eingang": "Di. 10:15"
+        },
+        {
+            "Absender": "Frank Richter",
+            "Betreff": "           Mitarbeitertraining",
+            "Text": "     Sehr geehrter Herr Achleitner, ich schlage vor, ein zusätzliches Mitarbeitertraining in Sachen Kommunikation und Teambildung durchzuführen. Was halten Sie davon? Frank.",
+            "Eingang": "Di. 09:50"
+        },
+        {
+            "Absender": "Sonja Klein",
+            "Betreff": "           Fuhrpark",
+            "Text": "               Hagen, einige unserer Fahrzeuge sind in die Jahre gekommen. Sollen wir über Erneuerungen oder Upgrades nachdenken? Sonja.",
+            "Eingang": "Di. 09:20"
+        },
+        {
+            "Absender": "Erik Wolf",
+            "Betreff": "               Reiseplanung",
+            "Text": "           Hallo Hagen, ich plane Ihre Geschäftsreisen für das nächste Quartal. Gibt es spezielle Wünsche oder Anforderungen? Erik.",
+            "Eingang": "Di. 08:55"
+        },
+        {
+            "Absender": "Sven Mahler",
+            "Betreff": "          Gebäudewartung",
+            "Text": "              Hallo Hagen, die jährliche Gebäudewartung steht an. Es gibt einige Reparaturen, die durchgeführt werden müssen. Bitte prüfen Sie das Budget. Sven.",
+            "Eingang": "Di. 08:30"
+        },
+        {
+            "Absender": "Nina Berg",
+            "Betreff": "              Forschungsergebnisse",
+            "Text": "          Hallo Hagen, unsere jüngsten Forschungsergebnisse sind sehr vielversprechend. Wann können wir darüber sprechen? Beste Grüße, Nina.",
+            "Eingang": "Di. 08:05"
+        },
+        {
+            "Absender": "Tim Schneider",
+            "Betreff": "          Vertragsverhandlungen",
+            "Text": "      Guten Morgen, Herr Achleitner. Ich habe die Vertragsverhandlungen mit dem neuen Lieferanten abgeschlossen. Ich werde Ihnen die Details zusenden. Tim.",
+            "Eingang": "Di. 07:40"
+        },
+        {
+            "Absender": "Sabrina Lange",
+            "Betreff": "          Energieeffizienz",
+            "Text": "              Guten Tag, wir könnten in der Fabrik einige Energieeffizienzmaßnahmen umsetzen. Das würde uns langfristig Geld sparen. Was denken Sie? Sabrina.",
+            "Eingang": "Di. 07:15"
+        },
+        {
+            "Absender": "Rene Meier",
+            "Betreff": "              Personalversammlung",
+            "Text": "          Herr Achleitner, bitte vergessen Sie nicht die Personalversammlung am Donnerstag. Ihre Anwesenheit ist wichtig. Rene.",
+            "Eingang": "Mo. 18:55"
+        },
+        {
+            "Absender": "Lena Roth",
+            "Betreff": "              Projektfortschritt",
+            "Text": "          Hallo Hagen, unser aktuelles Projekt liegt gut im Zeitplan. Ich werde Ihnen einen detaillierten Bericht zukommen lassen. Gruß, Lena.",
+            "Eingang": "Mo. 18:20"
+        },
+        {
+            "Absender": "Marcel Zimmer",
+            "Betreff": "          Budgetüberschreitung",
+            "Text": "          Achtung, Hagen. Einige Abteilungen könnten ihr Jahresbudget überschreiten. Wir sollten darüber sprechen. Marcel.",
+            "Eingang": "Mo. 17:50"
+        },
+        {
+            "Absender": "Clara Weiss",
+            "Betreff": "          Kundenfeedback",
+            "Text": "              Hagen, wir haben sehr positives Feedback von einigen unserer Hauptkunden erhalten. Es scheint, dass unsere Qualitätsverbesserungen Früchte tragen. Clara.",
+            "Eingang": "Mo. 17:25"
+        },
+        {
+            "Absender": "Dominik Braun",
+            "Betreff": "          Sicherheitsbedenken",
+            "Text": "          Sehr geehrter Herr Achleitner, es gibt einige Sicherheitsbedenken bezüglich unserer Lagerung von Chemikalien. Wir sollten das dringend klären. Dominik.",
+            "Eingang": "Mo. 16:55"
+        },
+        {
+            "Absender": "Ute Fischer",
+            "Betreff": "              Geschäftsbericht",
+            "Text": "              Guten Tag, der jährliche Geschäftsbericht ist fertiggestellt. Wann können wir uns für die Überprüfung treffen? Ute.",
+            "Eingang": "Mo. 16:30"
+        },
+        {
+            "Absender": "Stefan Vogel",
+            "Betreff": "          Neuer Mitarbeiter",
+            "Text": "          Hallo Hagen, ich möchte Ihnen unseren neuen Mitarbeiter in der Entwicklungsabteilung vorstellen. Können Sie sich etwas Zeit nehmen? Stefan.",
+            "Eingang": "Mo. 16:05"
+        },
+        {
+            "Absender": "Tina Schmitt",
+            "Betreff": "          Seminar",
+            "Text": "                Hallo Hagen, ich habe ein interessantes Seminar gefunden, das für unsere Führungskräfte nützlich sein könnte. Soll ich buchen? Tina.",
+            "Eingang": "Mo. 15:40"
+        },
+        {
+            "Absender": "Jan Müller",
+            "Betreff": "              Kundenbeschwerde",
+            "Text": "              Guten Tag, wir haben eine Kundenbeschwerde bezüglich eines unserer Produkte erhalten. Wie sollen wir vorgehen? Jan.",
+            "Eingang": "Mo. 15:10"
+        },
+        {
+            "Absender": "Anja Becker",
+            "Betreff": "              Netzwerktreffen",
+            "Text": "              Hallo Hagen, das nächste Netzwerktreffen der Branche findet im Dezember statt. Sollen wir teilnehmen? Anja.",
+            "Eingang": "Mo. 14:45"
+        },
+        {
+            "Absender": "Markus Lang",
+            "Betreff": "              Personaltraining",
+            "Text": "              Herr Achleitner, ich empfehle ein zusätzliches Training für unser Verkaufsteam. Das könnte unsere Verkaufszahlen steigern. Markus.",
+            "Eingang": "Mo. 14:20"
+        },
+        {
+            "Absender": "Eva Schulz",
+            "Betreff": "              Produktionsausfall",
+            "Text": "          Hallo Hagen, wir hatten einen kleinen Produktionsausfall aufgrund eines technischen Fehlers. Es wird aber bald behoben. Eva.",
+            "Eingang": "Mo. 13:50"
+        },
+        {
+            "Absender": "David Wagner",
+            "Betreff": "          Marketingstrategie",
+            "Text": "          Guten Tag, ich habe einige Ideen für eine neue Marketingstrategie. Es wäre toll, wenn wir uns dazu treffen könnten. David.",
+            "Eingang": "Mo. 13:25"
+        },
+        {
+            "Absender": "Christina Groß",
+            "Betreff": "          Umfrageergebnisse",
+            "Text": "              Hallo Hagen, die Ergebnisse unserer Kundenumfrage sind da. Es gibt einige interessante Erkenntnisse. Wann können wir uns treffen? Christina.",
+            "Eingang": "Mo. 12:55"
+        },
+        {
+            "Absender": "Manuel Stein",
+            "Betreff": "          Teambuilding",
+            "Text": "              Herr Achleitner, wie wäre es mit einem Teambuilding-Event für unsere Abteilungsleiter? Ich denke, das wäre sehr nützlich. Manuel.",
+            "Eingang": "Mo. 12:30"
+        },
+        {
+            "Absender": "Sarah Klein",
+            "Betreff": "              Patentanmeldung",
+            "Text": "              Guten Tag, ich habe gute Neuigkeiten! Unser neuestes Produkt wurde zum Patent angemeldet. Das ist ein großer Schritt für uns. Sarah.",
+            "Eingang": "Mo. 12:05"
         }
-]
+    ]
