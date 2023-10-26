@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Postfach Hagen Achleitner</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">  <!-- Hinzugefügt -->
+        <h1>Posteingang</h1>
+        <input type="text" id="searchInput" placeholder="Nach Absender suchen..." oninput="searchMails()">
+        <div id="mailbox">
+            <!-- Die E-Mail-Liste wird hier eingefügt -->
+        </div>
+
+        <div id="emailView" class="hidden">
+            <button onclick="goBack()">Zurück zum Posteingang</button>
+            <h2 id="emailSubject"></h2>
+            <p><span id="emailSender"></span> <span id="emailDate"></span></p>
+            <p id="emailText"></p>
+        </div>
+    </div>  <!-- Hinzugefügt -->
+    <script src="scripts.js"></script>
+</body>
+
+</html>

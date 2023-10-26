@@ -1,0 +1,1470 @@
+{
+    "Tabelle1": [
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "01.01.",
+            "T1 Uhrzeit": "9:00",
+            "T1 Betreff": "Zahnarzt"
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "02.01.",
+            "T1 Uhrzeit": "12:15",
+            "T1 Betreff": "Mittachmal"
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "03.01.",
+            "T1 Uhrzeit": "18:30",
+            "T1 Betreff": "Steinsaltz meucheln"
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "04.01."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "05.01."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "06.01."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "07.01."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "08.01."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "09.01."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "10.01."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "11.01."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "12.01."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "13.01."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "14.01."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "15.01."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "16.01."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "17.01."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "18.01."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "19.01."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "20.01."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "21.01."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "22.01."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "23.01."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "24.01."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "25.01."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "26.01."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "27.01."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "28.01."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "29.01."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "30.01."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "31.01."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "01.02."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "02.02."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "03.02."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "04.02."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "05.02."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "06.02."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "07.02."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "08.02."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "09.02."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "10.02."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "11.02."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "12.02."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "13.02."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "14.02."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "15.02."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "16.02."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "17.02."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "18.02."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "19.02."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "20.02."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "21.02."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "22.02."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "23.02."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "24.02."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "25.02."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "26.02."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "27.02."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "28.02."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "01.03."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "02.03."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "03.03."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "04.03."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "05.03."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "06.03."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "07.03."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "08.03."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "09.03."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "10.03."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "11.03."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "12.03."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "13.03."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "14.03."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "15.03."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "16.03."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "17.03."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "18.03."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "19.03."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "20.03."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "21.03."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "22.03."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "23.03."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "24.03."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "25.03."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "26.03."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "27.03."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "28.03."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "29.03."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "30.03."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "31.03."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "01.04."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "02.04."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "03.04."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "04.04."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "05.04."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "06.04."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "07.04."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "08.04."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "09.04."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "10.04."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "11.04."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "12.04."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "13.04."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "14.04."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "15.04."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "16.04."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "17.04."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "18.04."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "19.04."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "20.04."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "21.04."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "22.04."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "23.04."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "24.04."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "25.04."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "26.04."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "27.04."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "28.04."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "29.04."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "30.04."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "01.05."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "02.05."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "03.05."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "04.05."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "05.05."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "06.05."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "07.05."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "08.05."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "09.05."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "10.05."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "11.05."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "12.05."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "13.05."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "14.05."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "15.05."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "16.05."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "17.05."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "18.05."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "19.05."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "20.05."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "21.05."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "22.05."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "23.05."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "24.05."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "25.05."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "26.05."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "27.05."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "28.05."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "29.05."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "30.05."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "31.05."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "01.06."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "02.06."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "03.06."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "04.06."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "05.06."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "06.06."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "07.06."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "08.06."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "09.06."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "10.06."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "11.06."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "12.06."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "13.06."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "14.06."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "15.06."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "16.06."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "17.06."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "18.06."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "19.06."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "20.06."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "21.06."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "22.06."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "23.06."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "24.06."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "25.06."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "26.06."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "27.06."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "28.06."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "29.06."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "30.06."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "01.07."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "02.07."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "03.07."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "04.07."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "05.07."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "06.07."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "07.07."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "08.07."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "09.07."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "10.07."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "11.07."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "12.07."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "13.07."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "14.07."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "15.07."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "16.07."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "17.07."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "18.07."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "19.07."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "20.07."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "21.07."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "22.07."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "23.07."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "24.07."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "25.07."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "26.07."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "27.07."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "28.07."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "29.07."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "30.07."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "31.07."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "01.08."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "02.08."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "03.08."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "04.08."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "05.08."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "06.08."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "07.08."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "08.08."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "09.08."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "10.08."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "11.08."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "12.08."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "13.08."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "14.08."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "15.08."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "16.08."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "17.08."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "18.08."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "19.08."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "20.08."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "21.08."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "22.08."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "23.08."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "24.08."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "25.08."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "26.08."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "27.08."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "28.08."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "29.08."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "30.08."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "31.08."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "01.09."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "02.09."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "03.09."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "04.09."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "05.09."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "06.09."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "07.09."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "08.09."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "09.09."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "10.09."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "11.09."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "12.09."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "13.09."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "14.09."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "15.09."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "16.09."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "17.09."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "18.09."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "19.09."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "20.09."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "21.09."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "22.09."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "23.09."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "24.09."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "25.09."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "26.09."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "27.09."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "28.09."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "29.09."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "30.09."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "01.10."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "02.10."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "03.10."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "04.10."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "05.10."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "06.10."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "07.10."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "08.10."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "09.10."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "10.10."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "11.10."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "12.10."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "13.10."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "14.10."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "15.10."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "16.10."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "17.10."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "18.10."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "19.10."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "20.10."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "21.10."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "22.10."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "23.10."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "24.10."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "25.10."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "26.10."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "27.10."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "28.10."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "29.10."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "30.10."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "31.10."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "01.11."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "02.11."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "03.11."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "04.11."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "05.11."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "06.11."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "07.11."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "08.11."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "09.11."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "10.11."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "11.11."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "12.11."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "13.11."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "14.11."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "15.11."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "16.11."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "17.11."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "18.11."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "19.11."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "20.11."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "21.11."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "22.11."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "23.11."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "24.11."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "25.11."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "26.11."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "27.11."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "28.11."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "29.11."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "30.11."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "01.12."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "02.12."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "03.12."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "04.12."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "05.12."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "06.12."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "07.12."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "08.12."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "09.12."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "10.12."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "11.12."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "12.12."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "13.12."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "14.12."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "15.12."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "16.12."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "17.12."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "18.12."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "19.12."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "20.12."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "21.12."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "22.12."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "23.12."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "24.12."
+        },
+        {
+            "Wochentag": "Montag",
+            "Tag": "25.12."
+        },
+        {
+            "Wochentag": "Dienstag",
+            "Tag": "26.12."
+        },
+        {
+            "Wochentag": "Mittwoch",
+            "Tag": "27.12."
+        },
+        {
+            "Wochentag": "Donnerstag",
+            "Tag": "28.12."
+        },
+        {
+            "Wochentag": "Freitag",
+            "Tag": "29.12."
+        },
+        {
+            "Wochentag": "Samstag",
+            "Tag": "30.12."
+        },
+        {
+            "Wochentag": "Sonntag",
+            "Tag": "31.12."
+        }
+    ]
+}
